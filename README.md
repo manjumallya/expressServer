@@ -1,7 +1,8 @@
 # expressServer
 To make get/post api calls
 
-#steps to setupand run the server
+#steps to setup and run the server
+
 npm install
 
 node index.js
